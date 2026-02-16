@@ -1,0 +1,58 @@
+{
+  "strings": {
+    "MUSHROOMDRIPS_NAME": "버섯 감로",
+
+    "MAP_GOLEMPLAINS_TITLE_LOOP": "해질녘 초원",
+    "MAP_GOLEMPLAINS_SUBTITLE_LOOP": "첫 번째 지점",
+
+    "MAP_BLACKBEACH_TITLE_LOOP_WIP": "먼 곳의 횟대",
+    "MAP_BLACKBEACH_SUBTITLE_LOOP": "시작 지점",
+
+    "MAP_SNOWYFOREST_TITLE_LOOP": "오로라 숲",
+    "MAP_SNOWYFOREST_SUBTITLE_LOOP": "천상의 빛",
+
+
+    "MAP_GOOLAKE_TITLE_LOOP": "버려진 타르웅덩이",
+    "MAP_GOOLAKE_SUBTITLE_LOOP": "끝없는 흐름",
+
+    "MAP_FOGGYSWAMP_TITLE_LOOP": "습지 황무지",
+    "MAP_FOGGYSWAMP_SUBTITLE_LOOP": "흐려진 정신",
+
+    "MAP_ANCIENTLOFT_TITLE_LOOP": "어필리언 노출지",
+    "MAP_ANCIENTLOFT_SUBTITLE_LOOP": "헛된 약속",
+
+    "MAP_LEMURIANTEMPLE_TITLE_LOOP": "태고의 제단",
+    "MAP_LEMURIANTEMPLE_SUBTITLE_LOOP": "죽음과 환생",
+
+
+    "MAP_FROZENWALL_TITLE_LOOP_WIP": "델타 집결지",
+    "MAP_FROZENWALL_SUBTITLE_LOOP": "새로운 날의 시작",
+
+    "MAP_WISPGRAVEYARD_TITLE_LOOP": "황폐한 땅",
+    "MAP_WISPGRAVEYARD_SUBTITLE_LOOP": "수호의 정원",
+
+    "MAP_SULFURPOOLS_TITLE_LOOP": "유황 불길",
+    "MAP_SULFURPOOLS_SUBTITLE_LOOP": "푸른 화염",
+
+
+    "MAP_DAMPCAVE_TITLE_LOOP": "진홍빛 심연",
+    "MAP_DAMPCAVE_SUBTITLE_LOOP": "차원 변동",
+
+    "MAP_SHIPGRAVEYARD_TITLE_LOOP_WIP": "사이렌의 울음",
+    "MAP_SHIPGRAVEYARD_SUBTITLE_LOOP": "선박의 무덤",
+
+    "MAP_ROOTJUNGLE_TITLE_LOOP": "리뉴잉 그로브",
+    "MAP_ROOTJUNGLE_SUBTITLE_LOOP": "노력의 결실r",
+
+
+    "MAP_SKYMEADOW_TITLE_LOOP_WIP": "스카이 메도우",
+    "MAP_SKYMEADOW_SUBTITLE_LOOP": "스프라이트 필드",
+
+    "MAP_HELMINTHROOST_TITLE_LOOP": "기생충 대장간",
+    "MAP_HELMINTHROOST_SUBTITLE_LOOP": "타인의 질책",
+
+
+    "MAP_MOON_TITLE_LOOP_WIP": "세세이션",
+    "MAP_MOON_SUBTITLE_LOOP": "달의 어두운 면"
+  }
+}

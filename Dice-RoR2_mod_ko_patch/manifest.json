@@ -1,0 +1,9 @@
+{
+    "name": "RoR2_mod_ko_patch",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "RoR2 mods korean patch",
+    "dependencies": [
+		"bbepis-BepInExPack-5.4.2121"
+    ]
+}

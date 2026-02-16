@@ -1,0 +1,12 @@
+{
+	strings:
+	{
+		"DIRESEEKER_BOSS_BODY_NAME": "절박한 구도자",
+		"DIRESEEKER_BOSS_BODY_SUBTITLE": "추적 사살",
+		"DIRESEEKER_BOSS_BODY_OUTRO_FLAVOR": "...그리고 그것은 떠났다, 새로운 먹이를 찾아.",
+		"DIRESEEKER_SPAWN_WARNING": "<style=cWorldEvent>멀리서 울림이 느껴진다..</style>",
+		"DIRESEEKER_SPAWN_BEGIN": "<style=cWorldEvent>울림이 점점 커진다.</style>",
+		"DIRESEEKER_BOSS_BODY_LORE" : "전설에 따르면, 한때 페트리코르 V의 지하 병영을 배회하던 흉포한 괴수가 있었다.\n\n가장 용감한 생존자들과 가장 잔혹한 괴물들조차 두려워했던 그 거대한 짐승은 비길 데 없는 존재였다. 지옥불로 단련된 핏빛 비늘을 두르고 있었으며, 타오르는 황금빛 눈은 그 시선만으로도 거대한 존재들마저 제자리에서 멈춰 세웠다. 그 숨결은 금속조차 순식간에 녹여버릴 만큼 뜨겁게 달아올라 있었다.\n\n오직 한 번, 프로비던스마저 쓰러뜨릴 만큼 강대한 생존자에 의해 저지된 적이 있었으며, 그때 모두는 그 괴수가 마침내 필적할 존재를 만났다고 믿었다.\n\n<style=cIsHealth>그러나 그것은 다시 한 번, 그 공포스러운 모습을 드러냈다.</style>",
+		"UNLOCKABLE_LOG_DIRESEEKER_BOSS_BODY" : "몬스터 기록: 절박한 구도자"
+	}
+}

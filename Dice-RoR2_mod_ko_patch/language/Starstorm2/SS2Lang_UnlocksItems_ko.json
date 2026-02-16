@@ -1,0 +1,35 @@
+{
+    "strings":
+    {
+
+        "SS2_ACHIEVEMENT_BLOODTESTER_NAME": "의무병!",
+		"SS2_ACHIEVEMENT_BLOODTESTER_DESC": "한 게임에서 체력 5,000을 회복하십시오.",
+
+        "SS2_ACHIEVEMENT_COFFEEBAG_NAME": "카페인 충전",
+		"SS2_ACHIEVEMENT_COFFEEBAG_DESC": "이동 속도와 공격 속도 +150%에 도달하십시오.",
+
+        "SS2_ACHIEVEMENT_DIARY_NAME": "일기장에게...",
+		"SS2_ACHIEVEMENT_DIARY_DESC": "레벨 20에 도달하십시오.",
+
+        "SS2_ACHIEVEMENT_ERRATICGADET_NAME": "벼락의 군주",
+		"SS2_ACHIEVEMENT_ERRATICGADET_DESC": "벼락를 생성하는 아이템 5개를 소지하십시오.",
+
+        "SS2_ACHIEVEMENT_HOTTESTSAUCE_NAME": "핫 믹스",
+		"SS2_ACHIEVEMENT_HOTTESTSAUCE_DESC": "캬로의 반지, 휘발유, 도깨비불을 동시에 소지하십시오.",
+
+        "SS2_ACHIEVEMENT_HUNTERSSIGIL_NAME": "사냥꾼의 일격",
+		"SS2_ACHIEVEMENT_HUNTERSSIGIL_DESC": "단일 치명타로 1,000 이상의 피해를 주십시오.",
+
+        "SS2_ACHIEVEMENT_MALICE_NAME": "악의",
+		"SS2_ACHIEVEMENT_MALICE_DESC": "타이푼 난이도에서 3 스테이지 텔레포터 이벤트를 완료하십시오.",
+
+        "SS2_ACHIEVEMENT_NKOTASHERITAGE_NAME": "수집가",
+		"SS2_ACHIEVEMENT_NKOTASHERITAGE_DESC": "한 게임에서 25개의 고유한 아이템을 소지하십시오.",
+
+        "SS2_ACHIEVEMENT_STRANGECAN_NAME": "한 입 더",
+		"SS2_ACHIEVEMENT_STRANGECAN_DESC": "단일 적에게 동시에 6개의 디버프를 부여하십시오.",
+
+		"SS2_ACHIEVEMENT_URANIUMHORSESHOE_NAME": "그랑프리",
+		"SS2_ACHIEVEMENT_URANIUMHORSESHOE_DESC": "타이푼 난이도에서 15분 이내에 3 스테이지를 완료하십시오."
+    }
+}
