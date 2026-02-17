@@ -1,0 +1,10 @@
+{
+    "name": "RoR2_Mod_Korean_Patch",
+    "version_number": "1.0.1",
+    "website_url": "https://github.com/Dice-001/RoR2-Mod-Korean-Patch",
+    "description": "Adds Korean language to RoR2 mods.",
+    "dependencies": [
+		"bbepis-BepInExPack-5.4.2121",
+    "RiskofThunder-R2API_Language-1.1.0"
+    ]
+}
